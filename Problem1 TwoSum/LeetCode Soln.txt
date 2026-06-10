@@ -46,6 +46,8 @@ public:
     }
 };
 
+TIME Complexity = O(n^2)
+
 
 // HASH TABLE
 class Solution
@@ -72,3 +74,7 @@ public:
         return indices;
     }
 };
+
+
+TIME Complexity = O(n)
+SPACE Complexity = O(n)
